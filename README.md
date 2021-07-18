@@ -1,1 +1,1 @@
-# touristguide
+This tourist Guide app is which is an android application to help the tourist who visited to toronto. we used java as the main programming language to devlop this project and present this as our final year project.# touristguide
